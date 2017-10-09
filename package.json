@@ -1,0 +1,40 @@
+{
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "readme": "NativeScript Application",
+  "repository": "<fill-your-repository-here>",
+  "nativescript": {
+    "id": "org.nativescript.demo",
+    "tns-ios": {
+      "version": "3.0.1"
+    }
+  },
+  "dependencies": {
+    "@angular/animations": "~4.2.0",
+    "@angular/common": "~4.2.0",
+    "@angular/compiler": "~4.2.0",
+    "@angular/core": "~4.2.0",
+    "@angular/forms": "~4.2.0",
+    "@angular/http": "~4.2.0",
+    "@angular/platform-browser": "~4.2.0",
+    "@angular/router": "~4.2.0",
+    "Buffer": "0.0.0",
+    "assert": "^1.4.1",
+    "fs": "0.0.1-security",
+    "nativescript-angular": "~4.2.0",
+    "nativescript-nodeify": "^0.5.6",
+    "nativescript-sqlite": "^1.1.10",
+    "nativescript-theme-core": "~1.0.2",
+    "node-uuid": "^1.4.8",
+    "reflect-metadata": "~0.1.8",
+    "rxjs": "~5.4.2",
+    "stream": "0.0.2",
+    "tns-core-modules": "~3.1.0",
+    "typeorm": "0.1.0-alpha.50",
+    "zone.js": "~0.8.2"
+  },
+  "devDependencies": {
+    "nativescript-dev-typescript": "~0.5.0",
+    "typescript": "~2.4.2"
+  }
+}
